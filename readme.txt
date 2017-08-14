@@ -5,3 +5,4 @@ Git tracks changes of files
 Git is very good
 but I love zhuyu
 haha
+Creating a new branch is quick
