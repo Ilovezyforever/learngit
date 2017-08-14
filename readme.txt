@@ -7,3 +7,4 @@ but I love zhuyu
 haha
 Creating a new branch is quick
 I want to go back home
+creating a new branch is quick AND simple
